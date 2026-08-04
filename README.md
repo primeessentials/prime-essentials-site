@@ -1,0 +1,1 @@
+Open index.html to preview. Replace the SVG files in assets with your real Shopify images. Product titles, prices, eBay links, and Poshmark links are placeholders.
